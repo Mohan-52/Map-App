@@ -23,6 +23,7 @@ A React-based frontend application for the Map App assignment. This project prov
 - [Installation](#installation)
 - [Packages Used](#packages-used)
 - [Project Structure](#project-structure)
+- [Backend Setup](#backend-setup)
 
 
 ## Overview
@@ -88,7 +89,7 @@ Map-App/
 │   │   ├── City.js
 │   │   ├── Dashboard.js
 │   │   └── MapView.js
-│   ├── styledComponents.js
+│   |
 │   ├── App.js
 │   ├── index.js
 │   └── ...
@@ -96,3 +97,7 @@ Map-App/
 └── README.md
 ```
 
+## Backend Setup
+The backend for this project is hosted in a separate repository. Follow the instructions in the backend repo to set it up.
+
+Backend Repository: Map-App Backend https://github.com/Mohan-52/SyncthreadsAssignment
