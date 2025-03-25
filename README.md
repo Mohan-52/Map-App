@@ -75,10 +75,10 @@ Provides a collection of loading spinners for indicating asynchronous operations
 Simplifies handling browser cookies (e.g., for storing JWT tokens).
 
 
+
 ## Project Structure
 
-Below is a simplified version of the project structure:
-
+```
 Map-App/
 ├── public/
 │   └── index.html
@@ -94,3 +94,5 @@ Map-App/
 │   └── ...
 ├── package.json
 └── README.md
+```
+
